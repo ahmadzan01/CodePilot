@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Virtual env
+.env/
+.venv/
+env/
+venv/
+
+# Editor / OS files
+.DS_Store
+.idea/
+.vscode/
+
+# API keys / config
+.env
