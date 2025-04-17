@@ -16,15 +16,5 @@
 - **GitHub:** GitHub Actions + API
 - **Frontend (Optional):** React + Tailwind
 
-## 📂 Structure
-```bash
-CodePilot/
-├── backend/
-│   ├── parser/
-│   ├── testgen/
-│   └── refactor/
-├── cli/
-├── github-bot/
-├── data/
 
 Author @ Naqeeb Ahmadzai
